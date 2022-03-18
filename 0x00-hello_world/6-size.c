@@ -1,5 +1,9 @@
 #include <stdio.h>
-/*Size of varipus data types in C programming language*/
+/*
+ * main - main function
+ * printf for all sizes
+ * return - END THE program
+ * */
 int main(void) 
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
