@@ -1,9 +1,8 @@
 #include <stdio.h>
 /*
- * main - entru=y point
+ * main - Entry point
  * return - closing point
- * Programming is fun, realy fun
- * */
+ * Programming is fun, realy fun*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle\n");
