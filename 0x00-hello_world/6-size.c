@@ -2,8 +2,8 @@
 /*
  * main - main function
  * printf for all sizes
- * return - END THE program
- * */
+ * Return: END THE program
+ */
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));
