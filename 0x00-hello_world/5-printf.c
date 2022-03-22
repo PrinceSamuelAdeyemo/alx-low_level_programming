@@ -1,8 +1,10 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
+ *
  * printf -my hello printf task
- * return - ends the program
+ *
+ * return : ends the program
  */
 int main(void)
 {
