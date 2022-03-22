@@ -4,7 +4,7 @@
  *
  * printf -my hello printf task
  *
- * return: Always 0 (Success)
+ * return: return 1 after program execution
 */
 int main(void)
 {
