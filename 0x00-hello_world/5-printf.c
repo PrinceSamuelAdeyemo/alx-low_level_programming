@@ -1,7 +1,7 @@
 #include <stdio.h>
 /*
- * main - is the beginning of the function
- * printf - is the output statement
+ * main - Entry point
+ * printf -my hello printf task
  * return - ends the program
  * */
 int main(void)
