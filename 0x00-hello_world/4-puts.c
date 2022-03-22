@@ -1,7 +1,9 @@
-#include <stdio.h>
-/*
+#include <stdio.>
+/**
  * main - Entry point
- * return - closing point
+ *
+ * return: Always 0 (Success)
+ *
  * Programming is fun, realy fun*/
 int main(void)
 {
